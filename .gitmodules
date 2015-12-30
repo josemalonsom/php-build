@@ -1,0 +1,3 @@
+[submodule "git-modules/php-build-plugin-pdo-informix"]
+	path = git-modules/php-build-plugin-pdo-informix
+	url = https://github.com/josemalonsom/php-build-plugin-pdo-informix.git

@@ -1,4 +1,5 @@
 configure_option -R "--with-mysql" "mysqlnd"
 
 install_package "https://secure.php.net/distributions/php-5.3.29.tar.bz2"
-install_xdebug "2.2.7"
+install_pdo_informix_master
+create_custom_ini
